@@ -9,4 +9,4 @@ Single-use Registry Deployment Account: `0xa990077c3205cbDf861e17Fa532eeB069cE9f
 
 ## Deployed Contract Address
 
- - EIP1820: `0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d` 
+ - EIP1820: `0x1820a4b7618bde71dce8cdc73aab6c95905fad24` 
